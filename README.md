@@ -2,15 +2,19 @@
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
+</br>
+
 ##### Português
 - &nbsp;🔭 Estou atualmente em busca de recolocação.
 - &nbsp;🌱 Estou aprendendo HTML5, Javascript, CSS, Angular, C#, ASP.NET Core, WebAPI, SQL Server.
 
+______________________________________________________________________________________________________________________
 
 ##### English
 - &nbsp;🔭 I’m currently looking for a job
 - &nbsp;🌱 I’m currently learning HTML5, Javascript, CSS, Angular, C#, ASP.NET Core, WebAPI, SQL Server.
 
+______________________________________________________________________________________________________________________
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianosm91&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Cristianosm91's Github Stats">
