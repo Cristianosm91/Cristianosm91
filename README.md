@@ -6,13 +6,13 @@
 
 ##### Português
 - &nbsp;🔭 Estou atualmente trabalhando como Analista de Suporte de Sistemas Tef.
-- &nbsp;🌱 Estou aprendendo HTML5, Javascript, CSS, Angular, C#, ASP.NET Core, WebAPI, SQL Server.
+- &nbsp;🌱 Estou aprendendo HTML5, CSS, Javascript, Node, C#, ASP.NET Core, WebAPI, SQL Server.
 
 ______________________________________________________________________________________________________________________
 
 ##### English
 - &nbsp;🔭 I’m currently working as Tef Systems Support Analyst.
-- &nbsp;🌱 I’m currently learning HTML5, Javascript, CSS, Angular, C#, ASP.NET Core, WebAPI, SQL Server.
+- &nbsp;🌱 I’m currently learning HTML5, CSS, Javascript, Node, C#, ASP.NET Core, WebAPI, SQL Server.
 
 ______________________________________________________________________________________________________________________
 <br>
