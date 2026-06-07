@@ -1,18 +1,42 @@
-## Oi, Seja vindo(a) 👋
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
-
-</br>
+## Olá, sou Cristiano 👋
 
 ##### Português
-- &nbsp;🔭 Estou atualmente trabalhando como Analista de Suporte de Sistemas Tef.
-- &nbsp;🌱 Estou aprendendo HTML5, CSS, Javascript, Node, C#, ASP.NET Core, WebAPI, SQL Server.
+- Analista de Sistemas com background em suporte a sistemas críticos e automação. Atuo na sustentação do SiTef Express (TEF em nuvem), com experiência em troubleshooting, análise de causa raiz e gestão de incidentes em ambientes de pagamento eletrônico.
+
+🔭 **Atualmente trabalhando em:**
+- Sustentação e troubleshooting do SiTef Express (Fiserv)
+- Automação de testes com Playwright + GitHub Copilot
+- Scripts Python para análise de logs e migração de servidores
+- Dashboards em Power BI e ServiceNow
+
+🌱 **Stack & Ferramentas:**
+`C#` `.NET` `Python` `JavaScript` `Node.js` `SQL Server` `Oracle`
+`Playwright` `Google Apps Script` `Power BI` `ServiceNow` `Azure`
+
+📫 **Interesses:** Desenvolvimento Full Stack · Engenharia de Dados · Automação · Oracle/SQL · Cloud · Mercado Financeiro
+
+🏆 AZ-900 certified 
 
 ______________________________________________________________________________________________________________________
 
 ##### English
-- &nbsp;🔭 I’m currently working as Tef Systems Support Analyst.
-- &nbsp;🌱 I’m currently learning HTML5, CSS, Javascript, Node, C#, ASP.NET Core, WebAPI, SQL Server.
+### Hi, I'm Cristiano 👋
+
+Systems Analyst specializing in critical systems support and automation. I work on SiTef Express (cloud-based TEF) at Fiserv, handling troubleshooting, root cause analysis, and incident management in electronic payment environments.
+
+🔭 **Currently working on:**
+- SiTef Express support & incident management (Fiserv)
+- Test automation with Playwright + GitHub Copilot
+- Python scripts for log analysis and server migration
+- Dashboards in Power BI and ServiceNow
+
+🌱 **Stack & Tools:**
+`C#` `.NET` `Python` `JavaScript` `Node.js` `SQL Server` `Oracle`
+`Playwright` `Selenium` `Google Apps Script` `Power BI` `ServiceNow` `Azure`
+
+📫 **Interests:** Full Stack Development · Data Engineering · Automation · Oracle/SQL · Cloud · Financial Markets
+
+🏆 AZ-900 certified 
 
 ______________________________________________________________________________________________________________________
 <br>
